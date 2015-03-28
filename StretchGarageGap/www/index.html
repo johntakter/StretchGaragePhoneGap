@@ -28,19 +28,40 @@
         <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
         <link rel="stylesheet" type="text/css" href="css/index.css" />
         <title>Stretch Garage</title>
+
+        <style>
+        #clickme{
+            background: #333;
+            font-size: 1.2em;
+            font-weight: bold;
+            padding: 10px 30px;
+            margin: 10px;
+            color: #fff;
+        }
+        #status{
+            font-size: 2.0em;
+            font-weight: bold;
+            margin: 10px;
+        }
+        </style>
     </head>
     <body>
-        <div class="app">
-            <h1>PhoneGap</h1>
-            <div id="deviceready" class="blink">
-                <p class="event listening">Connecting to a Device</p>
-                <p class="event received">Device is Ready!</p>
-            </div>
+
+        <div class="container">
+            <button id="clickme" onClick="writeStatus();">Click Me</button>
+            <div id="status"></div>
         </div>
+
+
+
         <script type="text/javascript" src="cordova.js"></script>
         <script type="text/javascript" src="js/index.js"></script>
-        <script type="text/javascript">
-            app.initialize();
+
+        <script>
+        function writeStatus(){
+            var status = document.getElementById("status");
+            status.innerHTML = "Welcome to Programming";
+        }
         </script>
     </body>
 </html>
