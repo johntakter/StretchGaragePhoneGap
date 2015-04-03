@@ -1,0 +1,1 @@
+C:\Users\John\Source\Repos\StretchGaragePhoneGap\StretchGarage.App.Cordova\StretchGarage.App.Cordova\bld\Debug\platforms\windows\CordovaApp.Phone.jsproj;neutral

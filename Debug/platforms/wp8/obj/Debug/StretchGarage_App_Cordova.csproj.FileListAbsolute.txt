@@ -1,0 +1,14 @@
+C:\Users\John\Source\Repos\StretchGaragePhoneGap\StretchGarage.App.Cordova\StretchGarage.App.Cordova\bld\Debug\platforms\wp8\Bin\Debug\ApplicationIcon.png
+C:\Users\John\Source\Repos\StretchGaragePhoneGap\StretchGarage.App.Cordova\StretchGarage.App.Cordova\bld\Debug\platforms\wp8\Bin\Debug\Background.png
+C:\Users\John\Source\Repos\StretchGaragePhoneGap\StretchGarage.App.Cordova\StretchGarage.App.Cordova\bld\Debug\platforms\wp8\Bin\Debug\io.cordova.StretchGarage.App.Cordova.dll
+C:\Users\John\Source\Repos\StretchGaragePhoneGap\StretchGarage.App.Cordova\StretchGarage.App.Cordova\bld\Debug\platforms\wp8\Bin\Debug\io.cordova.StretchGarage.App.Cordova.pdb
+C:\Users\John\Source\Repos\StretchGaragePhoneGap\StretchGarage.App.Cordova\StretchGarage.App.Cordova\bld\Debug\platforms\wp8\Bin\Debug\AppManifest.xaml
+C:\Users\John\Source\Repos\StretchGaragePhoneGap\StretchGarage.App.Cordova\StretchGarage.App.Cordova\bld\Debug\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\John\Source\Repos\StretchGaragePhoneGap\StretchGarage.App.Cordova\StretchGarage.App.Cordova\bld\Debug\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+C:\Users\John\Source\Repos\StretchGaragePhoneGap\StretchGarage.App.Cordova\StretchGarage.App.Cordova\bld\Debug\platforms\wp8\obj\Debug\App.g.cs
+C:\Users\John\Source\Repos\StretchGaragePhoneGap\StretchGarage.App.Cordova\StretchGarage.App.Cordova\bld\Debug\platforms\wp8\obj\Debug\cordovalib\CordovaView.g.cs
+C:\Users\John\Source\Repos\StretchGaragePhoneGap\StretchGarage.App.Cordova\StretchGarage.App.Cordova\bld\Debug\platforms\wp8\obj\Debug\MainPage.g.cs
+C:\Users\John\Source\Repos\StretchGaragePhoneGap\StretchGarage.App.Cordova\StretchGarage.App.Cordova\bld\Debug\platforms\wp8\obj\Debug\io.cordova.StretchGarage.App.Cordova.g.resources
+C:\Users\John\Source\Repos\StretchGaragePhoneGap\StretchGarage.App.Cordova\StretchGarage.App.Cordova\bld\Debug\platforms\wp8\obj\Debug\io.cordova.StretchGarage.App.Cordova.dll
+C:\Users\John\Source\Repos\StretchGaragePhoneGap\StretchGarage.App.Cordova\StretchGarage.App.Cordova\bld\Debug\platforms\wp8\obj\Debug\io.cordova.StretchGarage.App.Cordova.pdb
+C:\Users\John\Source\Repos\StretchGaragePhoneGap\StretchGarage.App.Cordova\StretchGarage.App.Cordova\bld\Debug\platforms\wp8\obj\Debug\XapCacheFile.xml
